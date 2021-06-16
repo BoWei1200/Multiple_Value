@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pass Multiple Value</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="enter_your_name">Enter your name ....</string>
+    <string name="enter_your_dob">Enter your DOB ...</string>
+    <string name="next">Next</string>
+</resources>
